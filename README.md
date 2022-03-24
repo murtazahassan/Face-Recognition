@@ -1,5 +1,6 @@
 # Face Recognition and Attendance Project
 
+Shadab says that he is the best
 [![Watch Video](https://github.com/murtazahassan/Face-Recognition/blob/master/tumbnail.jpg)](https://youtu.be/sz25xxF_AVE)
 
 In this video we are going to learn how to perform Facial recognition with high accuracy. We will first briefly go through the theory and learn the basic implementation. Then we will create an Attendance project that will use webcam to detect faces and record the attendance live in an excel sheet. 
