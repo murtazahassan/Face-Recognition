@@ -23,7 +23,7 @@ Budget Webcam:
 
 https://amzn.to/2ZP47Ug
 
-Links:
+Links:  
 
 OpenCV Python Complete Course:
 
